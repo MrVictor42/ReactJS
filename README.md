@@ -1,1 +1,1 @@
-# Class2 - Hello World
+# Class 3 - Folder Structure

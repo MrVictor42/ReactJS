@@ -1,1 +1,1 @@
-# Class 4 - Components
+# Class 5 - Functional Components

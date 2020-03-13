@@ -1,1 +1,1 @@
-# Class 3 - Folder Structure
+# Class 4 - Components

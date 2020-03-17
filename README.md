@@ -1,1 +1,1 @@
-# Class 5 - Functional Components
+# Class 8 - JSX

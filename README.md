@@ -1,1 +1,1 @@
-# Class 8 - JSX
+# Class 9 - Props

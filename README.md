@@ -1,1 +1,1 @@
-# Class 12 - Destructuring props and state
+# Class 13 - Event Handling

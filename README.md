@@ -1,1 +1,1 @@
-# Class 11 - setState
+# Class 12 - Destructuring props and state

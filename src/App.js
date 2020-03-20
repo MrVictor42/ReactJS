@@ -11,6 +11,10 @@ function App() {
     	<div className="App">
 			<Message/>
 			<Counter />
+			<Greet name = 'Clack' heroName = 'Superman'>
+				<button> Action </button>
+			</Greet>
+			<Welcome name = 'Bruce' heroName = 'Batman'/>
 			{/* <Greet name = 'Bruce' heroName = 'Batman'>
 				<p> This is a childern Props </p>
 			</Greet>
@@ -18,7 +22,6 @@ function App() {
 				<button> Action </button>
 			</Greet>
 			<Greet name = 'Diana' heroName = 'Wonder Woman'/>
-			<Welcome name = 'Bruce' heroName = 'Batman'/>
 			<Welcome name = 'Clack' heroName = 'Superman'/>
 			<Welcome name = 'Diana' heroName = 'Wonder Woman'/>
 			<Hello/>  */}

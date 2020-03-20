@@ -6,11 +6,13 @@ import Hello from './components/Hello';
 import Message from './components/Message';
 import Counter from './components/Counter';
 import FunctionClick from './components/FunctionClick';
+import EventBind from './components/EventBind';
 
 function App() {
   	return (
-    	<div className="App">
-			<FunctionClick/>
+    	<div className = 'App'>
+			<EventBind/>
+			{/* <FunctionClick/> */}
 			{/* <Message/>
 			<Counter />
 			<Greet name = 'Clack' heroName = 'Superman'>

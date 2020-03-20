@@ -1,1 +1,1 @@
-# Class 13 - Event Handling
+# Class 14 - Binding Event Handlers

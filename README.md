@@ -1,1 +1,1 @@
-# Class 14 - Binding Event Handlers
+# Class 15 - Methods Props
